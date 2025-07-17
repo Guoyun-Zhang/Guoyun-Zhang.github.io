@@ -15,11 +15,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hiya! I am an MEng Computer Science student at [UCL](https://www.ucl.ac.uk/) and was a B.S. CS exchange student at [Georgia Tech](https://www.gatech.edu/). My research interests are in applied cryptography, system and security.
+Hi! I am a PhD student at [NUS IORA](https://iora.nus.edu.sg) and was a BEng Industrial Engineering at [NUS ISE](https://cde.nus.edu.sg/isem/), as well as an exchange student at [Georgia Tech](https://www.gatech.edu/). 
 
-In my free time, I enjoy reading [books](/witsky), watching movies, tinkering with some [open source projects](https://github.com/yuxqiu), and most importantly, [traveling](/traveling).
+My research interests are in operations research, machine learning and large language models.
 
-**I am currently looking for RA positions!**
+I am currently under the guidance of [Professor Qin HanZhang](https://hanzhangqin.com).
+
+In my free time, I enjoy playing music instruments, watching anime, playing video games, and am an avid [traveller](/traveling).
+
+
 
 <!-- Places I've been (I've only included China, the US and the UK as they are countries I've lived in) -->
 <!-- Countries: cn, sg, jp, us, uk, do, ch, fr, it, va, es, th, my, is, no, fi, se, dk (in chronological order)  -->

@@ -63,15 +63,15 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: yuxqiu
+github_username: Guoyun-Zhang
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
-keybase_username: yuxqiu # your keybase user name
+keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: yuxiang-qiu-4b243b266 # your LinkedIn user name
+linkedin_username: guoyun-zhang # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
@@ -80,7 +80,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: 2yCp7woAAAAJ # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -335,7 +335,7 @@ external_links:
 # Jekyll Last Commit
 # -----------------------------------------------------------------------------
 show_version: true
-commit_viewer: "https://github.com/yuxqiu/yuxqiu.github.io/commit/"
+commit_viewer: "https://github.com/Guoyun-Zhang/Guoyun-Zhang.github.io/commit/"
 
 # -----------------------------------------------------------------------------
 # Jekyll SEO Tag
@@ -346,14 +346,11 @@ webmaster_verifications:
   bing: "231286930EDC7A744F88D1D05B1BD04A" # out your bing-site-verification ID (Bing Webmaster)
 
 twitter:
-  username: yuxqiu
+  username:
 
 social:
   links:
-    - https://github.com/yuxqiu
-    - https://scholar.google.com/citations?user=2yCp7woAAAAJ
-    - https://www.linkedin.com/in/yuxiang-qiu-4b243b266
-    - https://x.com/yuxqiu
+    - https://www.linkedin.com/in/guoyun-zhang
 
 # -----------------------------------------------------------------------------
 # Jekyll OG Image
@@ -361,7 +358,7 @@ social:
 # -----------------------------------------------------------------------------
 og_image:
   output_dir: "assets/img/og"
-  domain: "yuxqiu.github.io"
+  domain: "Guoyun-Zhang.github.io"
   border_bottom:
     width: 20
     fill:
