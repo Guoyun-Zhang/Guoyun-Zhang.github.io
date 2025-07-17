@@ -55,7 +55,7 @@ max_width: 930px
 # Social integration
 # -----------------------------------------------------------------------------
 
-cv: yuxiang_qiu_cv.pdf # your cv (should be put under assets/pdf)
+cv: guoyun_zhang_cv.pdf # your cv (should be put under assets/pdf)
 acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
