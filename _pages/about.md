@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a PhD student at [NUS IORA](https://iora.nus.edu.sg) and was a BEng Industrial Engineering at [NUS ISE](https://cde.nus.edu.sg/isem/), as well as an exchange student at [Georgia Tech](https://www.gatech.edu/). 
+Hi! I am a PhD student at [NUS IORA](https://iora.nus.edu.sg) and was a BEng Industrial Engineering student at [NUS ISE](https://cde.nus.edu.sg/isem/), as well as an exchange student at [Georgia Tech](https://www.gatech.edu/). 
 
 My research interests are in operations research, machine learning and large language models.
 
