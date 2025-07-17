@@ -21,7 +21,7 @@ My research interests are in operations research, machine learning and large lan
 
 I am currently under the guidance of [Professor Qin HanZhang](https://hanzhangqin.com).
 
-In my free time, I enjoy playing music instruments, watching anime, playing video games, and am an avid [traveller](/traveling).
+In my free time, I enjoy playing music instruments, watching anime, playing video games, and am an avid [traveller](/travelling).
 
 
 

@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Traveling
-permalink: /traveling/
-nav: false
+title: Travelling
+permalink: /travelling/
+nav: true
+nav_order: 4
 ---
 
 <!-- Inspired by https://www.stefanocottafavi.com/leaflet-jekyll/ -->
