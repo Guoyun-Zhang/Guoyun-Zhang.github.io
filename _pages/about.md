@@ -19,9 +19,9 @@ Hi! I am a PhD student at [NUS IORA](https://iora.nus.edu.sg) and was a BEng Ind
 
 My research interests are in operations research, machine learning and large language models.
 
-I am currently under the guidances of [Professor Qin HanZhang](https://hanzhangqin.com) and [Professor Yang Shan shan](https://www.a-star.edu.sg/artc/home).
+I am currently under the guidances of [Professor Qin HanZhang](https://hanzhangqin.com) and [Dr Yang ShanShan](https://www.a-star.edu.sg/artc/home).
 
-In my free time, I enjoy playing music instruments, watching anime, playing video games, and am an avid [traveller](/travelling).
+In my free time, I enjoy playing music instruments, playing video games (Genshin & Honkai Star Rail), and am an avid [traveller](/travelling).
 
 
 
