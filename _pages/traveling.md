@@ -16,7 +16,7 @@ nav_order: 4
 
 <script src="/assets/js/leaflet-providers.min.js"></script>
 
-Discover my travel journey on this interactive map! Each marker pinpoints a country I've explored. Check out where I've been and stay tuned for more destinations and upcoming travel photos!
+Discover my travel journey on this interactive map! Each marker pinpoints a place I've explored. Check out where I've been and stay tuned for more destinations and upcoming travel photos!
 
 <style>
 #map {
