@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: MBA courses
+title: Teaching
 # description: Courses and teaching activities
 nav: true
 nav_order: 6
@@ -10,11 +10,11 @@ published: true
 
 ## MBA Courses
 
-**DBA5103: Operations Research and Analytics**
+### DBA5103: Operations Research and Analytics
 
 ## Undergraduate Courses
 
-**IE2111: Industrial & Systems Engrg Principles & Practice II**
+### IE2111: Industrial & Systems Engrg Principles & Practice II
 
 <!-- I teach DBA5103 Operations Research and Analytics, an MBA-level course covering quantitative methods for decision-making and operations management.
 
