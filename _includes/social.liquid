@@ -18,7 +18,10 @@
   <a href="https://wa.me/{{ site.whatsapp_number }}" title="whatsapp"><i class="wh2">{% fa_svg fab.fa-whatsapp %}</i></a>
 {% endif %}
 {% if site.orcid_id %}
-  <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid"></i></a>
+  <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID">
+    <i class="fa-brands fa-orcid"></i>
+  </a>
+{% endif %}
 {% endif %}
 {% if site.scholar_userid %}
   <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="wh2">{% fa_svg fab.fa-google-scholar %}</i></a>
