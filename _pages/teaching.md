@@ -4,11 +4,11 @@ permalink: /teaching/
 title: Teaching
 # description: Courses and teaching activities
 nav: true
-nav_order: 6
+nav_order: 4
 published: true
 ---
 
-## MBA Courses
+## MSBA Courses
 
 ### DBA5103: Operations Research and Analytics
 

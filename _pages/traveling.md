@@ -3,7 +3,7 @@ layout: default
 title: Travelling
 permalink: /travelling/
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 <!-- Inspired by https://www.stefanocottafavi.com/leaflet-jekyll/ -->
